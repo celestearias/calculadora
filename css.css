@@ -1,0 +1,73 @@
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.division{
+	margin-top: 200px;
+}
+table{
+
+	margin:0 auto;
+	background-color: #696969;
+	
+}
+.boton{
+	height: 55px;
+	width: 60px;
+	background-color: #808080;
+	border: none;
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	text-align: center;
+	margin:0;
+}
+.boton1{
+	height: 55px;
+	width: 124px;
+	font-family: 'Poppins', sans-serif;
+	background-color: #808080;
+	border:none;
+	font-size: 30px;
+	text-align: center;
+	color:white;
+	margin:0;
+}
+.boton2{
+	height: 55px;
+	width: 60px;
+	background-color: #A9A9A9;
+	border: none;
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	text-align: center;
+	margin:0;
+}
+.botonsig{
+	height: 55px;
+	width: 60px;
+	background-color: #FFA500;
+	border: none;
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	text-align: center;
+	margin:0;
+}
+.boton:hover,.boton1,.boton2,.botonsig:hover{
+	background-color: #B3B6B7;
+	border:solid white;
+}
+.rest{
+	width: 100px;
+	background-color: #000000;
+	border-radius: 6px 6px 0px 0px; 
+	height:70px;
+	color: white;
+	font-size: 50px;
+	text-align: right;
+}
+input{
+	background: transparent;
+	border:0px;
+}
